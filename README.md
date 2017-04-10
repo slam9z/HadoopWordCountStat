@@ -1,7 +1,7 @@
 # HadoopWordCountStat
 ## Introduction to Cloud and Big Data Systems - Assignment 2.
 
-The program is an alternative version of word count, but will display the mean, variance, and standard deviation as final output for each configuration
+The program is an alternative version of word count, instead of diplaying the count of each words, it displays the mean, variance, and standard deviation as final output for each configuration.
 
 **Objectives**
 * Familiarize with HDFS
